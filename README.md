@@ -22,5 +22,5 @@
 ### Entre em Contato:
 <div>
   <a href="https://www.linkedin.com/in/alex-gomes-29301a197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a>
-  <a href="alexsgomes0704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="http://www.instagram.com/alexxgoomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
