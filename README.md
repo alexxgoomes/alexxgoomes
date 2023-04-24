@@ -1,6 +1,4 @@
 <div align="center">
-  <a href="https://angelacaldas.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/sucodelarangela/portfolio/816c8f9d4e2ed795a95f931e8e937acf70c5d228/images/logo_white.svg" alt="Angela's logo" width="50px"></a>
-  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML shield">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS shield">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield">
