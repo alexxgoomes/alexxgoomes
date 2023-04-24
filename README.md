@@ -6,8 +6,8 @@
 
 ### Olá, eu sou o Alex Gomes 👋
 
-- 🌱 Atualmente estou estudando Front-End(HTML, CSS e JavaScript
-- 😄 Pronomes: ele/dele
+- 🌱 Atualmente estou estudando Front-End(HTML, CSS e JavaScript).
+- 😄 Pronomes: ele/dele.
 - 🎮 No meu tempo livre gosto de Assistir futebol,filmes e séries. Tmabém gosto de cozinhar e de jogar video game.
 
 ---
